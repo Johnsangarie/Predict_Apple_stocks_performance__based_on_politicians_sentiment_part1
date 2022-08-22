@@ -1,5 +1,6 @@
 # Predict_Apple_stocks_performance__based_on_politicians_sentiment_part1
-extracting the data from politico
+
+Look for part two on my other respositories to get the remaining codes.
 
 
 * Extract data from politico website using scrapy python library
